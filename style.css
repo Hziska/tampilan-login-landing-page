@@ -1,0 +1,38 @@
+.mode{
+    color: white;
+    background-color: black;
+    padding: 15px;
+    cursor: pointer;
+}
+
+.putih{
+    background-color: white;
+    color: black;
+}
+
+.dark{
+    color: white;
+    background-color: black;
+}
+.container-login{
+    width: 30%;
+    height: 85vh;
+}
+.nav{
+    width: 40%;
+}
+.nav a{
+    text-decoration: none;
+    padding: 10px;
+}
+.nav a:hover{
+    font-size: 20px;
+    transition: all .6s;
+}
+
+.navigasi {
+    width: 80%;
+}
+h2{
+    font-size: 30px;
+}
